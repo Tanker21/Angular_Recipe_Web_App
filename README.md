@@ -1,5 +1,7 @@
 # Recipes
 
+This project came from the Learning Angular LiveLessons course taught by Marc Wandschneider (https://github.com/marcwan/AngularLiveLessons)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
 
 ## Development server
