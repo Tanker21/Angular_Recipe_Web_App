@@ -24,13 +24,13 @@ export class Recipe {
     public description: string;
     public ingredients: Ingredient [];
     public instructions: Instruction [];
-    public cover_photos: string;
+    public cover_photo: string;
 
-    constructor(t: string, d: string, ing: Ingredient[], ins: Instruction[], cp:string){
+    constructor(t: string, d: string, ing: Ingredient[], ins: Instruction[], cp: string){
         this.title = t;
         this.description = d;
         this.ingredients = ing;
         this.instructions = ins;
-        this.cover_photos = cp;
+        this.cover_photo = cp;
     }
 }
